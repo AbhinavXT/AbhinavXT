@@ -1,5 +1,4 @@
-### Hi there 👋
+### Hi I am Abhinav 👋
 
-I am Abhinav Pathak. 
-<br>
+ 
 I am a Computer Science undergraduate, passionate about open source, web dev and deep learning.
