@@ -2,3 +2,9 @@
 
 I am a Computer Science undergraduate, passionate about open source, web dev and blockchain.
 
+Connect with mme:
+
+[Linkedin](https://www.linkedin.com/in/abhinavpathak21/)
+[Twitter](https://twitter.com/AbhinavXT)
+[Hashnode](https://abhinavpathak.hashnode.dev/)
+[Dev.to](https://dev.to/abhinavxt)
