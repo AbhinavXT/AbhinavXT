@@ -2,8 +2,12 @@
 
 I am a Computer Science undergraduate, passionate about open source, web dev and blockchain.
 
-Connect with me:
+Links:
 
+<a href='https://drive.google.com/file/d/1cm2QQRA39ojYqolETgHFV-7n3QctxDyU/view?usp=sharing'>
+Resume
+</a>
+&nbsp;&nbsp;&nbsp;
 <a href='https://www.linkedin.com/in/abhinavpathak21/'>
 Linkedin
 </a>
