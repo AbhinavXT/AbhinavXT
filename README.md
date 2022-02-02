@@ -2,6 +2,8 @@
 
 I am a Computer Science undergraduate, passionate about open source, web dev and blockchain.
 
+More about me:
+
 <a href='https://drive.google.com/file/d/1cm2QQRA39ojYqolETgHFV-7n3QctxDyU/view?usp=sharing'>
 Resume
 </a>
