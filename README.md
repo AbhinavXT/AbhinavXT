@@ -2,7 +2,7 @@
 
 I am a Computer Science undergraduate, passionate about open source,blockchain and web3.
 
-About me:
+Links:
 
 <a href='https://drive.google.com/file/d/1cm2QQRA39ojYqolETgHFV-7n3QctxDyU/view?usp=sharing'>
 Resume
