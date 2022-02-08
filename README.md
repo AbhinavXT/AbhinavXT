@@ -1,6 +1,6 @@
 ### Hi I am Abhinav 👋
 
-I am a Computer Science undergraduate, passionate about open source, web dev and blockchain.
+I am a Computer Science undergraduate, passionate about open source,blockchain and web3.
 
 About me:
 
