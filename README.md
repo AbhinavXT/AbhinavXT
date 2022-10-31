@@ -16,8 +16,8 @@ Linkedin
 Twitter
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href='https://abhinavpathak.hashnode.dev/'>
-Hashnode
+<a href='https://medium.com/@AbhinavXT'>
+Medium
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href='https://dev.to/abhinavxt'>
