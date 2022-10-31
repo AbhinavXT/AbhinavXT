@@ -1,10 +1,10 @@
 ### Hi I am Abhinav 👋
 
-I am a Computer Science undergraduate, passionate about open source, software and blockchain development.
+I am a Computer Science student and a ConsenSys certified Ethereum Developer, passionate about open source, software and blockchain development.
 
 Links:
 
-<a href='https://drive.google.com/file/d/1vCRoLurIFQdSq_oeyjj31kEmrOxkv6UQ/view?usp=sharing'>
+<a href='https://drive.google.com/file/d/1njP_zStEAQUXSu6vxWNQYtGEFb_x534R/view?usp=sharing'>
 Resume
 </a>
 &nbsp;&nbsp;&nbsp;
