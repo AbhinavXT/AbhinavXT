@@ -4,7 +4,7 @@ I am a Computer Science student and a ConsenSys certified Ethereum Developer, pa
 
 Links:
 
-<a href='https://drive.google.com/file/d/1njP_zStEAQUXSu6vxWNQYtGEFb_x534R/view?usp=sharing'>
+<a href='https://drive.google.com/file/d/1KwC4eZCgFImfIQ3HtCkwg3pQOsqVxZnP/view?usp=sharing'>
 Resume
 </a>
 &nbsp;&nbsp;&nbsp;
