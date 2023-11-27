@@ -3,8 +3,6 @@
 I am a Computer Science student and a ConsenSys certified Ethereum Developer, passionate about open source, software and blockchain development.
 
 Links:
-
-&nbsp;&nbsp;&nbsp;
 <a href='https://www.linkedin.com/in/abhinavpathak21/'>
 Linkedin
 </a>
