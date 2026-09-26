@@ -1,6 +1,7 @@
 ### Hi I am Abhinav 👋
 
-I am a Computer Science student and a ConsenSys certified Ethereum Developer, passionate about open source, software and blockchain development.
+Software engineer who likes building stuff. I work across Android, embedded systems, C/C++, Rust, and developer tooling.
+I like understanding how things work underneath the abstraction, then building something useful with that knowledge.
 
 Links:
 <a href='https://www.linkedin.com/in/abhinavpathak21/'>
